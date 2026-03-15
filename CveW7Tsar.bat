@@ -7,7 +7,7 @@ echo.
 echo.
 echo                  IM EATING YOUR CPU SYSTEM :3
 echo                  IM EATING YOUR RAM SYSTEM UwU
-echo                  IM EATING YOUR C:\* SYSTEM >////<
+echo                  IM EATING YOUR C:\* SYSTEM -3-
 echo                  IM EATING YOUR SYSTEM 7w7
 echo.
 echo.
