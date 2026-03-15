@@ -42,3 +42,5 @@ The script replicates itself and consumes all system resources. Use responsibly.
 
 - Author is not liable for any damage.
 - For educational purposes only.
+
+![GIF](https://media.tenor.com/Tl53h4GXuCUAAAAj/homer.gif)
