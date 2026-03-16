@@ -1,46 +1,22 @@
-# 🧨 cve222 – Fork Bomb
+# 🍵 Sweet Codes 
+Este repositório é uma coleção pessoal de códigos **bobos, inúteis, experimentais e, em alguns casos, destrutivos**. Eu os fiz por diversão, aprendizado e nostalgia. Alguns podem travar seu computador, consumir toda a memória, se replicar ou simplesmente não fazer nada útil.
 
-**Atenção:** Este repositório contém um script malicioso (fork bomb) para fins **exclusivamente educacionais**.  
-Não execute em seu computador principal ou em qualquer sistema sem proteção adequada. Use apenas em máquinas virtuais isoladas.
-
-## 📜 Sobre o Projeto
-
-Este é um fork bomb clássico combinado com auto-replicação, desenvolvido para estudo de técnicas de negação de serviço (DoS) e comportamento de malware em ambientes controlados.
-
-O script:
-- Cria cópias de si mesmo na pasta `Downloads` do usuário.
-- Executa um fork bomb (`%0|%0`) que consome toda a CPU e RAM.
-- Pode travar o sistema rapidamente.
-
-> ⚠️ **Isso é extremamente perigoso!** Pode causar perda de dados não salvos e danos ao sistema operacional.
-
-## 🛡️ Como testar com segurança
-
-1. **Use uma máquina virtual** (VirtualBox, VMware, etc.) com um snapshot antes do teste.
-2. Certifique-se de que não há arquivos importantes na VM.
-3. Execute o script e observe o comportamento.
-4. Após o teste, restaure o snapshot ou desligue a VM.
-
-## 📌 Avisos importantes
-
-- **NÃO EXECUTE** em seu computador pessoal, no trabalho, ou em qualquer sistema que você **NÃO** possa perder.
-- O autor não se responsabiliza por danos causados pelo uso inadequado deste código.
-- Este material é apenas para aprendizado sobre segurança cibernética e técnicas de malware.
-- Ao baixar, você assume toda a responsabilidade pelo uso.
-
+## ⚖️ Aviso de responsabilidade
+O autor **NÃO SE RESPONSABILIZA** por qualquer dano causado direta ou indiretamente pelo uso dos códigos deste repositório. Você é o único responsável por:
+- Entender (ou não) o que cada código faz
+- Escolher o ambiente de execução
+- Arcar com as consequências de travamentos, perda de dados, etc.
+Este material é fornecido **"como está"**, apenas para fins educacionais e de entretenimento. Use com responsabilidade.
 ## 📄 Licença
-
-Este projeto está licenciado sob a MIT License – veja o arquivo [LICENSE](LICENSE) para detalhes.  
-**Use de forma ética e responsável.**
+MIT – faça o que quiser, mas não me processe se algo explodir. Se for compartilhar, mantenha os avisos.
 
 ---
 
-### 🇺🇸 English
-
-This is an **educational fork bomb** repository. **Do not run on real hardware!** Only in isolated virtual machines.  
-The script replicates itself and consumes all system resources. Use responsibly.
-
-- Author is not liable for any damage.
-- For educational purposes only.
+### 🇺🇸 English version
+This is a personal collection of **silly, useless, experimental, and sometimes destructive code**.  
+**DO NOT RUN** on your main machine! Only in isolated virtual machines with snapshots.
+- The author is not liable for any damage.
+- For educational and entertainment purposes only.
+- Explore at your own risk. If you don't know what a file does, **don't run it**.
 
 ![GIF](https://media.tenor.com/Tl53h4GXuCUAAAAj/homer.gif)
